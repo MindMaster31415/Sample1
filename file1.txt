@@ -1,2 +1,2 @@
-This is the original text
-This is a new drive train
+This is the original text.
+This is a new drive train.
